@@ -1,4 +1,4 @@
-# Hi there 👋, I'm João<br><br>💻 Software Engineering student at Ontario Tech University  <br>☁️ Interested in DevOps, Cloud, and AI  <br>🚀 Currently working on OCR Extension and a Backend service.<br><br>
+# Hi there 👋, I'm João<br><br>💻 Software Engineering student at Ontario Tech University  <br>☁️ Interested in DevOps, Cloud, and AI  <br>🚀 Currently build projects in Golang to increase my knowledge.<br><br>
 
 
 ## 🌐 Socials:
