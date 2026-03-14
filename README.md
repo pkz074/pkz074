@@ -21,6 +21,7 @@ Hand-written recursive parser · query language · benchmarked against rapidjson
 **mini-redis** *(upcoming)* — Redis-compatible in-memory store in Rust
 RESP3 protocol · async tokio · Arc<Mutex<T>> shared state · AOF persistence
 
+**Other:** [sdv-project](https://github.com/pkz074/sdv-project) · [MazeRunner](https://github.com/pkz074/MazeRunner) 
 ---
 
 ## Stack
