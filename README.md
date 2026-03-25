@@ -1,4 +1,4 @@
-# João Minari
+# João Pedro Minari
 Ontario Tech University · Software Engineering · Internship Summer 2026
 
 Systems software engineer focused on infrastructure, distributed systems,
