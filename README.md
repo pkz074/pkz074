@@ -8,6 +8,10 @@ and high-performance tooling.
 
 ## Projects
 
+**[goproxy](https://github.com/pkz074/goproxy)** — Reverse proxy and API gateway with dynamic routing · Go *(in progress)*
+
+**[AuthWarden](https://github.com/pkz074/AuthWarden)** — Authentication service with JWT and refresh-token sessions · Rust *(in progress)*
+
 **[Golem](https://github.com/pkz074/golem)** — Distributed task scheduler · Go  
 
 **[jsonq](https://github.com/pkz074/jsonq)** — JSON parser and jq-style query engine · C++ *(in progress)*  
