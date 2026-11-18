@@ -1,5 +1,5 @@
 # João Pedro Minari
-Ontario Tech University · Software Engineering
+Ontario Tech University · Software Engineering · Class of 2027
 
 Systems software engineer focused on infrastructure, high-performance tooling and AI/ML
 
