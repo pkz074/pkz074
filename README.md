@@ -18,6 +18,7 @@ Systems software engineer focused on infrastructure, high-performance tooling an
 **[sdv-project](https://github.com/pkz074/sdv-project)** — Cloud-to-vehicle telemetry pipeline · Python  
 
 **[MazeRunner](https://github.com/pkz074/MazeRunner)** — Pathfinding benchmark comparing search algorithms across procedurally generated weighted mazes · Go, Java, Python
+
 ---
 
 ## Stack
